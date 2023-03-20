@@ -1,3 +1,5 @@
+## Hello 👋, I'm Daniel Silva.
+<!--#### I'm from Porto, Portugal, and currently a Developer @ konkConsulting.-->
 <!--
 **Dannyps/Dannyps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
