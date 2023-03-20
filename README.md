@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ![Dannyps' github stats](https://github-readme-stats.vercel.app/api?username=Dannyps&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyps&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyps&langs_count=5&theme=radical&hide_languages=html)](https://github.com/anuraghazra/github-readme-stats)
